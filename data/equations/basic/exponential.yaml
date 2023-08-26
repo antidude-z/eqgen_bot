@@ -1,0 +1,13 @@
+form:
+  - c^a = c^x
+roots: [x]
+arguments:
+  a:
+    range: [1, 6]
+    exclude: []
+    include: []
+  c:
+    range: [ 2, 20 ]
+    exclude: [ ]
+    include: [ ]
+description: Решите показательное уравнение

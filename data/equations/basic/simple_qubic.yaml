@@ -1,0 +1,9 @@
+form:
+  - x^3 = a^3
+roots: [x]
+arguments:
+  a:
+    range: [-20, 20]
+    exclude: [0]
+    include: []
+description: Решите простое кубическое уравнение

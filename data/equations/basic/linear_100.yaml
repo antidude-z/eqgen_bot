@@ -1,0 +1,13 @@
+form:
+  - a*x + b = 0
+roots: [x]
+arguments:
+  a:
+    range: [-100, 100]
+    include: []
+    exclude: [0]
+  b:
+    range: [-100, 100]
+    include: []
+    exclude: []
+description: Решите линейное уравнение для x

@@ -1,0 +1,26 @@
+form:
+  - a*x^2 + b*y^2 = c
+  - x/y = d/e
+roots: [x, y]
+arguments:
+  a:
+    range: [-10, 11]
+    include: []
+    exclude: [0]
+  b:
+    range: [-10, 11]
+    include: []
+    exclude: [0]
+  c:
+    range: [-10, 11]
+    include: []
+    exclude: [0]
+  d:
+    range: [ -10, 11 ]
+    include: [ ]
+    exclude: [ 0 ]
+  e:
+    range: [ -10, 11 ]
+    include: [ ]
+    exclude: [ 0 ]
+description: Решите систему НЕлинейных уравнений для x и y

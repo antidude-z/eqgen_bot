@@ -1,0 +1,12 @@
+linear_100: Линейное ур-е вида ax+b=0
+linear_system: Система линейных ур-ий
+nonlinear_system: Система нелинейных ур-ий (x/y = d/e; ax^2 + by^2 = c)
+quadratic_rational: Квадратное ур-е с рациональными корнями
+trigonometry: Тригонометрическое ур-е первой степени
+simple_qubic: Кубическое ур-е x^3 = a^3
+simple_loga: Логарифмическое ур-е
+fractions: Простое дробное уравнение x/a + (x+b)/c = d
+square_root: Уравнение с квадратным корнем
+exponential: Показательное уравнение a/b = c^x
+denominator: Ур-е с неизвестным в знаменателе
+powers_system: Система простых уравнений с x^2 и x^3

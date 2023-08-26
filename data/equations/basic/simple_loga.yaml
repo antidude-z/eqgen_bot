@@ -1,0 +1,9 @@
+form:
+  - log(x)/log(10) = c
+roots: [x]
+arguments:
+  c:
+    range: [-15, 15]
+    exclude: []
+    include: []
+description: Решите логарифмическое уравнение

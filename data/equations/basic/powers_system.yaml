@@ -1,0 +1,14 @@
+form:
+  - x^3 + a*x^2 = 0
+  - y = x + b
+roots: [x, y]
+arguments:
+  a:
+    range: [ -20, 20 ]
+    exclude: [0]
+    include: [ ]
+  b:
+    range: [ -20, 20 ]
+    exclude: [ 0 ]
+    include: [ ]
+description: Решите систему уравнений для x и y

@@ -1,0 +1,21 @@
+form:
+  - (a + b*x)/(x + c) = d
+roots: [x]
+arguments:
+  a:
+    range: [-20, 20]
+    exclude: []
+    include: []
+  b:
+    range: [ -20, 20 ]
+    exclude: [0]
+    include: [ ]
+  c:
+    range: [ -20, 20 ]
+    exclude: [ ]
+    include: [ ]
+  d:
+    range: [ -20, 20 ]
+    exclude: [ ]
+    include: [ ]
+description: Решите уравнение с неизвестным в знаменателе

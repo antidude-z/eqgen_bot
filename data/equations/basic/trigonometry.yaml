@@ -1,0 +1,13 @@
+form:
+  - a*cos(x) + b*sin(x) = 0
+roots: [x]
+arguments:
+  a:
+    range: [-10, 10]
+    include: []
+    exclude: [0]
+  b:
+    range: [ -10, 10 ]
+    include: [ ]
+    exclude: [ 0 ]
+description: Решите тригонометрическое уравнение

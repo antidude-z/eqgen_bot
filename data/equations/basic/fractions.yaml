@@ -1,0 +1,21 @@
+form:
+  - x/a + (x+b)/c = d
+roots: [x]
+arguments:
+  a:
+    range: [-10, 10]
+    exclude: [0]
+    include: []
+  b:
+    range: [ -10, 10 ]
+    exclude: [ 0 ]
+    include: [ ]
+  c:
+    range: [ -10, 10 ]
+    exclude: [ 0 ]
+    include: [ ]
+  d:
+    range: [ -10, 10 ]
+    exclude: [ 0 ]
+    include: [ ]
+description: Решите дробное уравение для x

@@ -1,0 +1,17 @@
+form:
+  - sqrt(x + a) = b*x + c
+roots: [x]
+arguments:
+  a:
+    range: [-20, 20]
+    exclude: []
+    include: []
+  b:
+    range: [ -20, 20 ]
+    exclude: [0]
+    include: [ ]
+  c:
+    range: [ -20, 20 ]
+    exclude: [0]
+    include: [ ]
+description: Решите уравнение с корнем
